@@ -1,9 +1,11 @@
 # semi1api
 archivos para la creacion de la imagen de la api que consume la bd
 CREACION DE API  CON NODE JS  EN DOCKER
+
 Pasos a seguir 
 1.Crear un carpeta
 2. Crear ambiente de desarrollo en node js con el comando
+
   docker pull node
 3. correr el contenedor
 
