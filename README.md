@@ -113,7 +113,6 @@ console.log ('el servidor de la API RESTful de la lista  en:' + puerto);
 
 esto ejecutará su aplicación en el puerto que proporcionó cuando inicia el servidor
 
-#Para crear la imagen con el contenedor seguir los siguientes pasos:
 
 
 
