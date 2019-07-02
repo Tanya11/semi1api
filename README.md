@@ -1,5 +1,6 @@
 # semi1api
 archivos para la creacion de la imagen de la api que consume la bd
+
 CREACION DE API  CON NODE JS  EN DOCKER
 
 Pasos a seguir 
